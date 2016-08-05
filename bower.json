@@ -1,0 +1,18 @@
+{
+  "name": "COMP125-ASSIGNMENT2",
+  "homepage": "https://github.com/Johaen11/COMP125-Assignment1",
+  "authors": [
+    "johaen11 <johngnanakumar@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
